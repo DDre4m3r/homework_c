@@ -9,6 +9,7 @@ enum ERRORS {
     NOT_ENOUGH_ARGUMENTS = 1,
     NULL_CITY_STR,
     CURL_ERROR,
+    BAD_RESPONSE_CODE,
 };
 
 // Структура для хранения ответа
@@ -96,6 +97,16 @@ char *get_weather_json(char *city) {
             curl_easy_cleanup(curl);
             free(url);
             exit(CURL_ERROR);
+        }
+
+        long http_code = 0;
+        curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &http_code);
+        if (http_code != 200) {
+            fprintf(stderr, "Ошибка: сервер вернул HTTP %ld\n", http_code);
+            curl_easy_cleanup(curl);
+            free(response.data);
+            free(url);
+            exit(BAD_RESPONSE_CODE);
         }
 
         curl_easy_cleanup(curl);
