@@ -1,30 +1,30 @@
 {
     "current_condition": [
         {
-            "FeelsLikeC": "-14",
-            "FeelsLikeF": "7",
-            "cloudcover": "62",
-            "humidity": "85",
+            "FeelsLikeC": "-2",
+            "FeelsLikeF": "28",
+            "cloudcover": "50",
+            "humidity": "80",
             "lang_ru": [
                 {
-                    "value": "Небольшой снегопад"
+                    "value": "Переменная облачность"
                 }
             ],
-            "localObsDateTime": "2025-02-15 08:21 PM",
-            "observation_time": "05:21 PM",
+            "localObsDateTime": "2025-02-15 11:51 PM",
+            "observation_time": "10:51 PM",
             "precipInches": "0.0",
             "precipMM": "0.0",
-            "pressure": "1010",
+            "pressure": "1022",
             "pressureInches": "30",
-            "temp_C": "-9",
-            "temp_F": "16",
+            "temp_C": "1",
+            "temp_F": "34",
             "uvIndex": "0",
-            "visibility": "9",
-            "visibilityMiles": "5",
-            "weatherCode": "326",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "116",
             "weatherDesc": [
                 {
-                    "value": "Light snow shower"
+                    "value": "Partly cloudy"
                 }
             ],
             "weatherIconUrl": [
@@ -32,30 +32,30 @@
                     "value": ""
                 }
             ],
-            "winddir16Point": "NNW",
-            "winddirDegree": "341",
-            "windspeedKmph": "10",
-            "windspeedMiles": "6"
+            "winddir16Point": "ENE",
+            "winddirDegree": "76",
+            "windspeedKmph": "11",
+            "windspeedMiles": "7"
         }
     ],
     "nearest_area": [
         {
             "areaName": [
                 {
-                    "value": "Москва"
+                    "value": "Amsterdam"
                 }
             ],
             "country": [
                 {
-                    "value": "Russia"
+                    "value": "Netherlands"
                 }
             ],
-            "latitude": "55.752",
-            "longitude": "37.616",
-            "population": "10381288",
+            "latitude": "52.374",
+            "longitude": "4.890",
+            "population": "741636",
             "region": [
                 {
-                    "value": "Moscow City"
+                    "value": "North Holland"
                 }
             ],
             "weatherUrl": [
@@ -67,7 +67,7 @@
     ],
     "request": [
         {
-            "query": "Lat 55.75 and Lon 37.62",
+            "query": "Lat 52.37 and Lon 4.90",
             "type": "LatLon"
         }
     ],
@@ -77,532 +77,60 @@
                 {
                     "moon_illumination": "94",
                     "moon_phase": "Waning Gibbous",
-                    "moonrise": "09:08 PM",
-                    "moonset": "08:43 AM",
-                    "sunrise": "07:54 AM",
-                    "sunset": "05:35 PM"
+                    "moonrise": "09:24 PM",
+                    "moonset": "08:54 AM",
+                    "sunrise": "07:56 AM",
+                    "sunset": "05:54 PM"
                 }
             ],
-            "avgtempC": "-9",
-            "avgtempF": "17",
+            "avgtempC": "1",
+            "avgtempF": "34",
             "date": "2025-02-15",
             "hourly": [
                 {
-                    "DewPointC": "-9",
-                    "DewPointF": "15",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "9",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "19",
-                    "WindChillC": "-13",
-                    "WindChillF": "9",
-                    "WindGustKmph": "18",
-                    "WindGustMiles": "11",
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "31",
+                    "HeatIndexC": "1",
+                    "HeatIndexF": "34",
+                    "WindChillC": "-1",
+                    "WindChillF": "31",
+                    "WindGustKmph": "10",
+                    "WindGustMiles": "6",
                     "chanceoffog": "0",
-                    "chanceoffrost": "99",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "81",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "83",
-                    "chanceofsnow": "0",
-                    "chanceofsunshine": "5",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "69",
-                    "diffRad": "0.0",
-                    "humidity": "85",
-                    "lang_ru": [
-                        {
-                            "value": "Облачно"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-7",
-                    "tempF": "19",
-                    "time": "0",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "119",
-                    "weatherDesc": [
-                        {
-                            "value": "Cloudy "
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "N",
-                    "winddirDegree": "7",
-                    "windspeedKmph": "13",
-                    "windspeedMiles": "8"
-                },
-                {
-                    "DewPointC": "-11",
-                    "DewPointF": "13",
-                    "FeelsLikeC": "-15",
-                    "FeelsLikeF": "5",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-15",
-                    "WindChillF": "5",
-                    "WindGustKmph": "18",
-                    "WindGustMiles": "11",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "98",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "85",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "87",
-                    "chanceofsnow": "0",
-                    "chanceofsunshine": "17",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "80",
-                    "diffRad": "0.0",
-                    "humidity": "87",
-                    "lang_ru": [
-                        {
-                            "value": "Облачно"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "16",
-                    "time": "300",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "119",
-                    "weatherDesc": [
-                        {
-                            "value": "Cloudy "
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "N",
-                    "winddirDegree": "359",
-                    "windspeedKmph": "13",
-                    "windspeedMiles": "8"
-                },
-                {
-                    "DewPointC": "-11",
-                    "DewPointF": "12",
-                    "FeelsLikeC": "-16",
-                    "FeelsLikeF": "3",
-                    "HeatIndexC": "-10",
-                    "HeatIndexF": "14",
-                    "WindChillC": "-16",
-                    "WindChillF": "3",
-                    "WindGustKmph": "18",
-                    "WindGustMiles": "11",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "99",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "91",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "70",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "0.0",
-                    "humidity": "88",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-10",
-                    "tempF": "14",
-                    "time": "600",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "N",
-                    "winddirDegree": "355",
-                    "windspeedKmph": "13",
-                    "windspeedMiles": "8"
-                },
-                {
-                    "DewPointC": "-12",
-                    "DewPointF": "10",
-                    "FeelsLikeC": "-16",
-                    "FeelsLikeF": "3",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "15",
-                    "WindChillC": "-16",
-                    "WindChillF": "3",
-                    "WindGustKmph": "20",
-                    "WindGustMiles": "13",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "98",
+                    "chanceoffrost": "28",
                     "chanceofhightemp": "0",
                     "chanceofovercast": "90",
                     "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "83",
-                    "chanceofsunshine": "0",
+                    "chanceofremdry": "92",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "7",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "52.3",
-                    "humidity": "80",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1013",
-                    "pressureInches": "30",
-                    "shortRad": "124.0",
-                    "tempC": "-9",
-                    "tempF": "15",
-                    "time": "900",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "N",
-                    "winddirDegree": "358",
-                    "windspeedKmph": "15",
-                    "windspeedMiles": "10"
-                },
-                {
-                    "DewPointC": "-13",
-                    "DewPointF": "9",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "19",
-                    "WindChillC": "-14",
-                    "WindChillF": "8",
-                    "WindGustKmph": "19",
-                    "WindGustMiles": "12",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "99",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "83",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "71",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "94.1",
-                    "humidity": "66",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "222.0",
-                    "tempC": "-7",
-                    "tempF": "19",
-                    "time": "1200",
-                    "uvIndex": "1",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "N",
-                    "winddirDegree": "353",
-                    "windspeedKmph": "15",
-                    "windspeedMiles": "10"
-                },
-                {
-                    "DewPointC": "-13",
-                    "DewPointF": "9",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "19",
-                    "WindChillC": "-13",
-                    "WindChillF": "8",
-                    "WindGustKmph": "20",
-                    "WindGustMiles": "12",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "98",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "84",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "61",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "66.6",
-                    "humidity": "63",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый снег"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "145.4",
-                    "tempC": "-7",
-                    "tempF": "19",
-                    "time": "1500",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "326",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NNW",
-                    "winddirDegree": "345",
-                    "windspeedKmph": "14",
-                    "windspeedMiles": "9"
-                },
-                {
-                    "DewPointC": "-12",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-8",
-                    "HeatIndexF": "17",
-                    "WindChillC": "-13",
-                    "WindChillF": "8",
-                    "WindGustKmph": "16",
-                    "WindGustMiles": "10",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "98",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "92",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "86",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "24.2",
-                    "humidity": "76",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "52.4",
-                    "tempC": "-8",
-                    "tempF": "17",
-                    "time": "1800",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NNW",
-                    "winddirDegree": "341",
-                    "windspeedKmph": "11",
-                    "windspeedMiles": "7"
-                },
-                {
-                    "DewPointC": "-11",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "7",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-14",
-                    "WindChillF": "7",
-                    "WindGustKmph": "14",
-                    "WindGustMiles": "9",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "97",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "94",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "67",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "97",
                     "diffRad": "0.0",
-                    "humidity": "83",
+                    "humidity": "65",
                     "lang_ru": [
                         {
-                            "value": "Слабый дождь, гололёд"
+                            "value": "Пасмурно"
                         }
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1012",
+                    "pressure": "1028",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "16",
-                    "time": "2100",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NNW",
-                    "winddirDegree": "342",
-                    "windspeedKmph": "10",
-                    "windspeedMiles": "6"
-                }
-            ],
-            "maxtempC": "-7",
-            "maxtempF": "19",
-            "mintempC": "-10",
-            "mintempF": "14",
-            "sunHour": "7.5",
-            "totalSnow_cm": "0.1",
-            "uvIndex": "0"
-        },
-        {
-            "astronomy": [
-                {
-                    "moon_illumination": "89",
-                    "moon_phase": "Waning Gibbous",
-                    "moonrise": "10:23 PM",
-                    "moonset": "08:47 AM",
-                    "sunrise": "07:52 AM",
-                    "sunset": "05:37 PM"
-                }
-            ],
-            "avgtempC": "-8",
-            "avgtempF": "17",
-            "date": "2025-02-16",
-            "hourly": [
-                {
-                    "DewPointC": "-11",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "6",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "15",
-                    "WindChillC": "-14",
-                    "WindChillF": "6",
-                    "WindGustKmph": "13",
-                    "WindGustMiles": "8",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "97",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "91",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "80",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "0.0",
-                    "humidity": "85",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "15",
+                    "tempC": "1",
+                    "tempF": "34",
                     "time": "0",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "311",
+                    "weatherCode": "122",
                     "weatherDesc": [
                         {
-                            "value": "Light freezing rain"
+                            "value": "Overcast "
                         }
                     ],
                     "weatherIconUrl": [
@@ -610,371 +138,35 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "322",
-                    "windspeedKmph": "9",
-                    "windspeedMiles": "6"
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "165",
+                    "windspeedKmph": "6",
+                    "windspeedMiles": "4"
                 },
                 {
-                    "DewPointC": "-11",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "6",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "15",
-                    "WindChillC": "-14",
-                    "WindChillF": "6",
-                    "WindGustKmph": "15",
-                    "WindGustMiles": "9",
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "-2",
+                    "FeelsLikeF": "28",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-2",
+                    "WindChillF": "28",
+                    "WindGustKmph": "9",
+                    "WindGustMiles": "6",
                     "chanceoffog": "0",
-                    "chanceoffrost": "96",
+                    "chanceoffrost": "97",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "82",
+                    "chanceofovercast": "42",
                     "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "68",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "0.0",
-                    "humidity": "84",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый снег"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "15",
-                    "time": "300",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "326",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "316",
-                    "windspeedKmph": "10",
-                    "windspeedMiles": "6"
-                },
-                {
-                    "DewPointC": "-11",
-                    "DewPointF": "12",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "6",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-14",
-                    "WindChillF": "6",
-                    "WindGustKmph": "15",
-                    "WindGustMiles": "9",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "96",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "86",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "62",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "0.0",
-                    "humidity": "85",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый снег"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1011",
-                    "pressureInches": "30",
-                    "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "16",
-                    "time": "600",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "326",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "307",
-                    "windspeedKmph": "11",
-                    "windspeedMiles": "7"
-                },
-                {
-                    "DewPointC": "-12",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-15",
-                    "FeelsLikeF": "6",
-                    "HeatIndexC": "-8",
-                    "HeatIndexF": "17",
-                    "WindChillC": "-15",
-                    "WindChillF": "6",
-                    "WindGustKmph": "19",
-                    "WindGustMiles": "12",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "95",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "83",
-                    "chanceofrain": "100",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "76",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "36.5",
-                    "humidity": "78",
-                    "lang_ru": [
-                        {
-                            "value": "Небольшой снегопад"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.1",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "76.7",
-                    "tempC": "-8",
-                    "tempF": "17",
-                    "time": "900",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "368",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow showers"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "325",
-                    "windspeedKmph": "14",
-                    "windspeedMiles": "9"
-                },
-                {
-                    "DewPointC": "-13",
-                    "DewPointF": "9",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "19",
-                    "WindChillC": "-13",
-                    "WindChillF": "8",
-                    "WindGustKmph": "19",
-                    "WindGustMiles": "12",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "95",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "80",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "75",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "74.6",
-                    "humidity": "66",
-                    "lang_ru": [
-                        {
-                            "value": "Небольшой снегопад"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1012",
-                    "pressureInches": "30",
-                    "shortRad": "154.9",
-                    "tempC": "-7",
-                    "tempF": "19",
-                    "time": "1200",
-                    "uvIndex": "1",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "368",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow showers"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "325",
-                    "windspeedKmph": "15",
-                    "windspeedMiles": "9"
-                },
-                {
-                    "DewPointC": "-13",
-                    "DewPointF": "9",
-                    "FeelsLikeC": "-12",
-                    "FeelsLikeF": "10",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "20",
-                    "WindChillC": "-12",
-                    "WindChillF": "10",
-                    "WindGustKmph": "17",
-                    "WindGustMiles": "11",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "94",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "88",
-                    "chanceofrain": "100",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "89",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "51.0",
-                    "humidity": "64",
-                    "lang_ru": [
-                        {
-                            "value": "Небольшой снегопад"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.1",
-                    "pressure": "1013",
-                    "pressureInches": "30",
-                    "shortRad": "106.2",
-                    "tempC": "-7",
-                    "tempF": "20",
-                    "time": "1500",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "368",
-                    "weatherDesc": [
-                        {
-                            "value": "Light snow showers"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "324",
-                    "windspeedKmph": "13",
-                    "windspeedMiles": "8"
-                },
-                {
-                    "DewPointC": "-12",
-                    "DewPointF": "10",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-8",
-                    "HeatIndexF": "18",
-                    "WindChillC": "-13",
-                    "WindChillF": "8",
-                    "WindGustKmph": "18",
-                    "WindGustMiles": "11",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "94",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "94",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "0",
-                    "chanceofsnow": "86",
-                    "chanceofsunshine": "0",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "100",
-                    "diffRad": "19.6",
-                    "humidity": "71",
-                    "lang_ru": [
-                        {
-                            "value": "Слабый дождь, гололёд"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1014",
-                    "pressureInches": "30",
-                    "shortRad": "41.2",
-                    "tempC": "-8",
-                    "tempF": "18",
-                    "time": "1800",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "311",
-                    "weatherDesc": [
-                        {
-                            "value": "Light freezing rain"
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "313",
-                    "windspeedKmph": "12",
-                    "windspeedMiles": "7"
-                },
-                {
-                    "DewPointC": "-12",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "7",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-14",
-                    "WindChillF": "7",
-                    "WindGustKmph": "15",
-                    "WindGustMiles": "9",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "93",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "40",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "92",
+                    "chanceofremdry": "90",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "81",
+                    "chanceofsunshine": "84",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "39",
+                    "cloudcover": "27",
                     "diffRad": "0.0",
-                    "humidity": "81",
+                    "humidity": "73",
                     "lang_ru": [
                         {
                             "value": "Переменная облачность"
@@ -982,11 +174,347 @@
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1015",
+                    "pressure": "1027",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "16",
+                    "tempC": "-1",
+                    "tempF": "31",
+                    "time": "300",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "S",
+                    "winddirDegree": "190",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-3",
+                    "FeelsLikeF": "27",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "30",
+                    "WindChillC": "-3",
+                    "WindChillF": "27",
+                    "WindGustKmph": "9",
+                    "WindGustMiles": "6",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "98",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "92",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "91",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "19",
+                    "diffRad": "0.0",
+                    "humidity": "76",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-1",
+                    "tempF": "30",
+                    "time": "600",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "155",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-4",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-2",
+                    "FeelsLikeF": "28",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-2",
+                    "WindChillF": "28",
+                    "WindGustKmph": "8",
+                    "WindGustMiles": "5",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "97",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "39",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "87",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "73",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "46",
+                    "diffRad": "8.0",
+                    "humidity": "73",
+                    "lang_ru": [
+                        {
+                            "value": "Переменная облачность"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "18.8",
+                    "tempC": "-0",
+                    "tempF": "31",
+                    "time": "900",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "146",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "1",
+                    "FeelsLikeF": "33",
+                    "HeatIndexC": "3",
+                    "HeatIndexF": "37",
+                    "WindChillC": "1",
+                    "WindChillF": "33",
+                    "WindGustKmph": "9",
+                    "WindGustMiles": "6",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "86",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "86",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "9",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "52.1",
+                    "humidity": "58",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1024",
+                    "pressureInches": "30",
+                    "shortRad": "145.5",
+                    "tempC": "3",
+                    "tempF": "37",
+                    "time": "1200",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SE",
+                    "winddirDegree": "130",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                },
+                {
+                    "DewPointC": "-4",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "2",
+                    "FeelsLikeF": "35",
+                    "HeatIndexC": "3",
+                    "HeatIndexF": "38",
+                    "WindChillC": "2",
+                    "WindChillF": "35",
+                    "WindGustKmph": "9",
+                    "WindGustMiles": "6",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "94",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "93",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "19",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "118.4",
+                    "humidity": "57",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1023",
+                    "pressureInches": "30",
+                    "shortRad": "241.3",
+                    "tempC": "3",
+                    "tempF": "38",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "101",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                },
+                {
+                    "DewPointC": "-3",
+                    "DewPointF": "26",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "31",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "35",
+                    "WindChillC": "-1",
+                    "WindChillF": "31",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "10",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "92",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "80",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "8",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "97",
+                    "diffRad": "67.6",
+                    "humidity": "69",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1022",
+                    "pressureInches": "30",
+                    "shortRad": "135.8",
+                    "tempC": "2",
+                    "tempF": "35",
+                    "time": "1800",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "75",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "-3",
+                    "DewPointF": "27",
+                    "FeelsLikeC": "-2",
+                    "FeelsLikeF": "29",
+                    "HeatIndexC": "1",
+                    "HeatIndexF": "34",
+                    "WindChillC": "-2",
+                    "WindChillF": "29",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "10",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "49",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "90",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "82",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "61",
+                    "diffRad": "0.0",
+                    "humidity": "74",
+                    "lang_ru": [
+                        {
+                            "value": "Переменная облачность"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1022",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "1",
+                    "tempF": "34",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -1002,79 +530,79 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "NW",
-                    "winddirDegree": "310",
-                    "windspeedKmph": "10",
-                    "windspeedMiles": "6"
+                    "winddir16Point": "E",
+                    "winddirDegree": "87",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "5"
                 }
             ],
-            "maxtempC": "-7",
-            "maxtempF": "19",
-            "mintempC": "-10",
-            "mintempF": "14",
-            "sunHour": "7.8",
-            "totalSnow_cm": "0.6",
+            "maxtempC": "3",
+            "maxtempF": "38",
+            "mintempC": "-1",
+            "mintempF": "30",
+            "sunHour": "8.0",
+            "totalSnow_cm": "0.0",
             "uvIndex": "0"
         },
         {
             "astronomy": [
                 {
-                    "moon_illumination": "82",
+                    "moon_illumination": "89",
                     "moon_phase": "Waning Gibbous",
-                    "moonrise": "11:41 PM",
-                    "moonset": "08:52 AM",
-                    "sunrise": "07:50 AM",
-                    "sunset": "05:39 PM"
+                    "moonrise": "10:35 PM",
+                    "moonset": "09:02 AM",
+                    "sunrise": "07:54 AM",
+                    "sunset": "05:56 PM"
                 }
             ],
-            "avgtempC": "-10",
-            "avgtempF": "15",
-            "date": "2025-02-17",
+            "avgtempC": "0",
+            "avgtempF": "33",
+            "date": "2025-02-16",
             "hourly": [
                 {
-                    "DewPointC": "-12",
-                    "DewPointF": "11",
-                    "FeelsLikeC": "-15",
-                    "FeelsLikeF": "5",
-                    "HeatIndexC": "-10",
-                    "HeatIndexF": "14",
-                    "WindChillC": "-15",
-                    "WindChillF": "5",
-                    "WindGustKmph": "14",
-                    "WindGustMiles": "9",
+                    "DewPointC": "-4",
+                    "DewPointF": "26",
+                    "FeelsLikeC": "-4",
+                    "FeelsLikeF": "26",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "32",
+                    "WindChillC": "-4",
+                    "WindChillF": "26",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
                     "chanceoffog": "0",
-                    "chanceoffrost": "93",
+                    "chanceoffrost": "56",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "85",
+                    "chanceofovercast": "0",
                     "chanceofrain": "0",
-                    "chanceofremdry": "93",
+                    "chanceofremdry": "80",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "15",
+                    "chanceofsunshine": "88",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "19",
                     "diffRad": "0.0",
-                    "humidity": "87",
+                    "humidity": "77",
                     "lang_ru": [
                         {
-                            "value": "Пасмурно"
+                            "value": "Ясно"
                         }
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1016",
+                    "pressure": "1023",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-10",
-                    "tempF": "14",
+                    "tempC": "-0",
+                    "tempF": "32",
                     "time": "0",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Overcast "
+                            "value": "Clear "
                         }
                     ],
                     "weatherIconUrl": [
@@ -1082,55 +610,55 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "WNW",
-                    "winddirDegree": "298",
-                    "windspeedKmph": "9",
-                    "windspeedMiles": "6"
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "74",
+                    "windspeedKmph": "11",
+                    "windspeedMiles": "7"
                 },
                 {
-                    "DewPointC": "-12",
-                    "DewPointF": "10",
-                    "FeelsLikeC": "-16",
-                    "FeelsLikeF": "4",
-                    "HeatIndexC": "-10",
-                    "HeatIndexF": "13",
-                    "WindChillC": "-16",
-                    "WindChillF": "4",
-                    "WindGustKmph": "14",
-                    "WindGustMiles": "9",
+                    "DewPointC": "-4",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-4",
+                    "FeelsLikeF": "24",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-4",
+                    "WindChillF": "24",
+                    "WindGustKmph": "19",
+                    "WindGustMiles": "12",
                     "chanceoffog": "0",
-                    "chanceoffrost": "92",
+                    "chanceoffrost": "75",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "92",
+                    "chanceofovercast": "32",
                     "chanceofrain": "0",
-                    "chanceofremdry": "87",
+                    "chanceofremdry": "80",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "10",
+                    "chanceofsunshine": "71",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "46",
                     "diffRad": "0.0",
-                    "humidity": "89",
+                    "humidity": "75",
                     "lang_ru": [
                         {
-                            "value": "Пасмурно"
+                            "value": "Переменная облачность"
                         }
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1017",
+                    "pressure": "1022",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-10",
-                    "tempF": "13",
+                    "tempC": "-0",
+                    "tempF": "31",
                     "time": "300",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Overcast "
+                            "value": "Partly Cloudy "
                         }
                     ],
                     "weatherIconUrl": [
@@ -1138,55 +666,55 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "WNW",
-                    "winddirDegree": "296",
-                    "windspeedKmph": "9",
-                    "windspeedMiles": "6"
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "74",
+                    "windspeedKmph": "12",
+                    "windspeedMiles": "8"
                 },
                 {
-                    "DewPointC": "-12",
-                    "DewPointF": "10",
-                    "FeelsLikeC": "-16",
-                    "FeelsLikeF": "3",
-                    "HeatIndexC": "-11",
-                    "HeatIndexF": "12",
-                    "WindChillC": "-16",
-                    "WindChillF": "3",
-                    "WindGustKmph": "13",
-                    "WindGustMiles": "8",
+                    "DewPointC": "-4",
+                    "DewPointF": "25",
+                    "FeelsLikeC": "-5",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "30",
+                    "WindChillC": "-5",
+                    "WindChillF": "22",
+                    "WindGustKmph": "21",
+                    "WindGustMiles": "13",
                     "chanceoffog": "0",
                     "chanceoffrost": "92",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "89",
+                    "chanceofovercast": "0",
                     "chanceofrain": "0",
-                    "chanceofremdry": "81",
+                    "chanceofremdry": "91",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "17",
+                    "chanceofsunshine": "89",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "77",
+                    "cloudcover": "8",
                     "diffRad": "0.0",
-                    "humidity": "90",
+                    "humidity": "80",
                     "lang_ru": [
                         {
-                            "value": "Облачно"
+                            "value": "Ясно"
                         }
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1018",
+                    "pressure": "1022",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-11",
-                    "tempF": "12",
+                    "tempC": "-1",
+                    "tempF": "30",
                     "time": "600",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "119",
+                    "weatherCode": "113",
                     "weatherDesc": [
                         {
-                            "value": "Cloudy "
+                            "value": "Clear "
                         }
                     ],
                     "weatherIconUrl": [
@@ -1194,147 +722,35 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "WNW",
-                    "winddirDegree": "290",
-                    "windspeedKmph": "9",
-                    "windspeedMiles": "6"
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "69",
+                    "windspeedKmph": "13",
+                    "windspeedMiles": "8"
                 },
                 {
-                    "DewPointC": "-13",
-                    "DewPointF": "8",
-                    "FeelsLikeC": "-16",
-                    "FeelsLikeF": "3",
-                    "HeatIndexC": "-10",
-                    "HeatIndexF": "14",
-                    "WindChillC": "-16",
-                    "WindChillF": "3",
-                    "WindGustKmph": "16",
-                    "WindGustMiles": "10",
+                    "DewPointC": "-5",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-5",
+                    "FeelsLikeF": "23",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-5",
+                    "WindChillF": "23",
+                    "WindGustKmph": "20",
+                    "WindGustMiles": "13",
                     "chanceoffog": "0",
                     "chanceoffrost": "91",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "84",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "94",
-                    "chanceofsnow": "0",
-                    "chanceofsunshine": "18",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "75",
-                    "diffRad": "54.5",
-                    "humidity": "78",
-                    "lang_ru": [
-                        {
-                            "value": "Облачно"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1019",
-                    "pressureInches": "30",
-                    "shortRad": "145.4",
-                    "tempC": "-10",
-                    "tempF": "14",
-                    "time": "900",
-                    "uvIndex": "0",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "119",
-                    "weatherDesc": [
-                        {
-                            "value": "Cloudy "
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "WNW",
-                    "winddirDegree": "287",
-                    "windspeedKmph": "12",
-                    "windspeedMiles": "7"
-                },
-                {
-                    "DewPointC": "-15",
-                    "DewPointF": "6",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "7",
-                    "HeatIndexC": "-8",
-                    "HeatIndexF": "17",
-                    "WindChillC": "-14",
-                    "WindChillF": "7",
-                    "WindGustKmph": "15",
-                    "WindGustMiles": "9",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "90",
-                    "chanceofhightemp": "0",
-                    "chanceofovercast": "88",
-                    "chanceofrain": "0",
-                    "chanceofremdry": "91",
-                    "chanceofsnow": "0",
-                    "chanceofsunshine": "18",
-                    "chanceofthunder": "0",
-                    "chanceofwindy": "0",
-                    "cloudcover": "67",
-                    "diffRad": "89.4",
-                    "humidity": "60",
-                    "lang_ru": [
-                        {
-                            "value": "Облачно"
-                        }
-                    ],
-                    "precipInches": "0.0",
-                    "precipMM": "0.0",
-                    "pressure": "1019",
-                    "pressureInches": "30",
-                    "shortRad": "263.5",
-                    "tempC": "-8",
-                    "tempF": "17",
-                    "time": "1200",
-                    "uvIndex": "1",
-                    "visibility": "10",
-                    "visibilityMiles": "6",
-                    "weatherCode": "119",
-                    "weatherDesc": [
-                        {
-                            "value": "Cloudy "
-                        }
-                    ],
-                    "weatherIconUrl": [
-                        {
-                            "value": ""
-                        }
-                    ],
-                    "winddir16Point": "W",
-                    "winddirDegree": "264",
-                    "windspeedKmph": "12",
-                    "windspeedMiles": "7"
-                },
-                {
-                    "DewPointC": "-15",
-                    "DewPointF": "5",
-                    "FeelsLikeC": "-13",
-                    "FeelsLikeF": "9",
-                    "HeatIndexC": "-7",
-                    "HeatIndexF": "19",
-                    "WindChillC": "-13",
-                    "WindChillF": "9",
-                    "WindGustKmph": "17",
-                    "WindGustMiles": "10",
-                    "chanceoffog": "0",
-                    "chanceoffrost": "90",
-                    "chanceofhightemp": "0",
                     "chanceofovercast": "0",
                     "chanceofrain": "0",
-                    "chanceofremdry": "89",
+                    "chanceofremdry": "83",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "90",
+                    "chanceofsunshine": "91",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "25",
-                    "diffRad": "60.0",
-                    "humidity": "54",
+                    "cloudcover": "9",
+                    "diffRad": "8.4",
+                    "humidity": "76",
                     "lang_ru": [
                         {
                             "value": "Солнечно"
@@ -1342,12 +758,12 @@
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1019",
+                    "pressure": "1023",
                     "pressureInches": "30",
-                    "shortRad": "208.6",
-                    "tempC": "-7",
-                    "tempF": "19",
-                    "time": "1500",
+                    "shortRad": "20.4",
+                    "tempC": "-1",
+                    "tempF": "31",
+                    "time": "900",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
@@ -1362,35 +778,563 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "WSW",
-                    "winddirDegree": "253",
-                    "windspeedKmph": "12",
-                    "windspeedMiles": "8"
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "74",
+                    "windspeedKmph": "14",
+                    "windspeedMiles": "9"
                 },
                 {
-                    "DewPointC": "-14",
-                    "DewPointF": "7",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "7",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-14",
-                    "WindChillF": "7",
-                    "WindGustKmph": "16",
-                    "WindGustMiles": "10",
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "-3",
+                    "FeelsLikeF": "27",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "35",
+                    "WindChillC": "-3",
+                    "WindChillF": "27",
+                    "WindGustKmph": "23",
+                    "WindGustMiles": "14",
                     "chanceoffog": "0",
-                    "chanceoffrost": "89",
+                    "chanceoffrost": "10",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "44",
+                    "chanceofovercast": "88",
                     "chanceofrain": "0",
                     "chanceofremdry": "81",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "80",
+                    "chanceofsunshine": "10",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "41",
-                    "diffRad": "24.2",
-                    "humidity": "68",
+                    "cloudcover": "80",
+                    "diffRad": "56.5",
+                    "humidity": "60",
+                    "lang_ru": [
+                        {
+                            "value": "Облачно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1023",
+                    "pressureInches": "30",
+                    "shortRad": "117.3",
+                    "tempC": "2",
+                    "tempF": "35",
+                    "time": "1200",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "119",
+                    "weatherDesc": [
+                        {
+                            "value": "Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "83",
+                    "windspeedKmph": "18",
+                    "windspeedMiles": "11"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "22",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "31",
+                    "HeatIndexC": "4",
+                    "HeatIndexF": "38",
+                    "WindChillC": "-1",
+                    "WindChillF": "31",
+                    "WindGustKmph": "23",
+                    "WindGustMiles": "14",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "94",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "88",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "3",
+                    "diffRad": "68.3",
+                    "humidity": "50",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1023",
+                    "pressureInches": "30",
+                    "shortRad": "392.2",
+                    "tempC": "4",
+                    "tempF": "38",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "80",
+                    "windspeedKmph": "18",
+                    "windspeedMiles": "11"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-3",
+                    "FeelsLikeF": "27",
+                    "HeatIndexC": "1",
+                    "HeatIndexF": "34",
+                    "WindChillC": "-3",
+                    "WindChillF": "27",
+                    "WindGustKmph": "25",
+                    "WindGustMiles": "15",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "10",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "92",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "89",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "2",
+                    "diffRad": "48.8",
+                    "humidity": "65",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1023",
+                    "pressureInches": "30",
+                    "shortRad": "246.8",
+                    "tempC": "1",
+                    "tempF": "34",
+                    "time": "1800",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "74",
+                    "windspeedKmph": "14",
+                    "windspeedMiles": "9"
+                },
+                {
+                    "DewPointC": "-3",
+                    "DewPointF": "26",
+                    "FeelsLikeC": "-5",
+                    "FeelsLikeF": "23",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-5",
+                    "WindChillF": "23",
+                    "WindGustKmph": "25",
+                    "WindGustMiles": "16",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "87",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "89",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "89",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "80",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-0",
+                    "tempF": "31",
+                    "time": "2100",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "78",
+                    "windspeedKmph": "15",
+                    "windspeedMiles": "10"
+                }
+            ],
+            "maxtempC": "4",
+            "maxtempF": "38",
+            "mintempC": "-1",
+            "mintempF": "30",
+            "sunHour": "9.8",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "0"
+        },
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "82",
+                    "moon_phase": "Waning Gibbous",
+                    "moonrise": "11:48 PM",
+                    "moonset": "09:11 AM",
+                    "sunrise": "07:52 AM",
+                    "sunset": "05:58 PM"
+                }
+            ],
+            "avgtempC": "0",
+            "avgtempF": "32",
+            "date": "2025-02-17",
+            "hourly": [
+                {
+                    "DewPointC": "-4",
+                    "DewPointF": "25",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "30",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "21",
+                    "WindGustMiles": "13",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "86",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "86",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "90",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "6",
+                    "diffRad": "0.0",
+                    "humidity": "81",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-1",
+                    "tempF": "30",
+                    "time": "0",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "85",
+                    "windspeedKmph": "13",
+                    "windspeedMiles": "8"
+                },
+                {
+                    "DewPointC": "-4",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-2",
+                    "HeatIndexF": "29",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "85",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "92",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "84",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "19",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "96",
+                    "diffRad": "0.0",
+                    "humidity": "83",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-2",
+                    "tempF": "29",
+                    "time": "300",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "89",
+                    "windspeedKmph": "10",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "-4",
+                    "DewPointF": "24",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-2",
+                    "HeatIndexF": "29",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "84",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "93",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "89",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "13",
+                    "diffRad": "0.0",
+                    "humidity": "82",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-2",
+                    "tempF": "29",
+                    "time": "600",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "88",
+                    "windspeedKmph": "11",
+                    "windspeedMiles": "7"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "-5",
+                    "FeelsLikeF": "23",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "30",
+                    "WindChillC": "-5",
+                    "WindChillF": "23",
+                    "WindGustKmph": "17",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "83",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "92",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "88",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "5",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "97",
+                    "diffRad": "9.4",
+                    "humidity": "76",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "21.2",
+                    "tempC": "-1",
+                    "tempF": "30",
+                    "time": "900",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "94",
+                    "windspeedKmph": "12",
+                    "windspeedMiles": "7"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "22",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "30",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "36",
+                    "WindChillC": "-1",
+                    "WindChillF": "30",
+                    "WindGustKmph": "15",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "91",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "88",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "9",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "68",
+                    "diffRad": "62.1",
+                    "humidity": "55",
+                    "lang_ru": [
+                        {
+                            "value": "Облачно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1025",
+                    "pressureInches": "30",
+                    "shortRad": "153.4",
+                    "tempC": "2",
+                    "tempF": "36",
+                    "time": "1200",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "119",
+                    "weatherDesc": [
+                        {
+                            "value": "Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "98",
+                    "windspeedKmph": "12",
+                    "windspeedMiles": "7"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "21",
+                    "FeelsLikeC": "2",
+                    "FeelsLikeF": "35",
+                    "HeatIndexC": "4",
+                    "HeatIndexF": "39",
+                    "WindChillC": "2",
+                    "WindChillF": "35",
+                    "WindGustKmph": "13",
+                    "WindGustMiles": "8",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "30",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "93",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "79",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "44",
+                    "diffRad": "120.6",
+                    "humidity": "47",
                     "lang_ru": [
                         {
                             "value": "Переменная облачность"
@@ -1398,11 +1342,67 @@
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1020",
+                    "pressure": "1024",
                     "pressureInches": "30",
-                    "shortRad": "77.9",
-                    "tempC": "-9",
-                    "tempF": "16",
+                    "shortRad": "351.2",
+                    "tempC": "4",
+                    "tempF": "39",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "100",
+                    "windspeedKmph": "10",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "30",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "35",
+                    "WindChillC": "-1",
+                    "WindChillF": "30",
+                    "WindGustKmph": "17",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "10",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "34",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "82",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "83",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "45",
+                    "diffRad": "75.3",
+                    "humidity": "62",
+                    "lang_ru": [
+                        {
+                            "value": "Переменная облачность"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1024",
+                    "pressureInches": "30",
+                    "shortRad": "218.8",
+                    "tempC": "2",
+                    "tempF": "35",
                     "time": "1800",
                     "uvIndex": "0",
                     "visibility": "10",
@@ -1418,55 +1418,55 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "SW",
-                    "winddirDegree": "235",
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "74",
                     "windspeedKmph": "9",
                     "windspeedMiles": "6"
                 },
                 {
-                    "DewPointC": "-12",
-                    "DewPointF": "10",
-                    "FeelsLikeC": "-14",
-                    "FeelsLikeF": "8",
-                    "HeatIndexC": "-9",
-                    "HeatIndexF": "16",
-                    "WindChillC": "-14",
-                    "WindChillF": "8",
-                    "WindGustKmph": "13",
-                    "WindGustMiles": "8",
+                    "DewPointC": "-6",
+                    "DewPointF": "22",
+                    "FeelsLikeC": "-4",
+                    "FeelsLikeF": "25",
+                    "HeatIndexC": "0",
+                    "HeatIndexF": "32",
+                    "WindChillC": "-4",
+                    "WindChillF": "25",
+                    "WindGustKmph": "22",
+                    "WindGustMiles": "14",
                     "chanceoffog": "0",
-                    "chanceoffrost": "89",
+                    "chanceoffrost": "17",
                     "chanceofhightemp": "0",
-                    "chanceofovercast": "91",
+                    "chanceofovercast": "41",
                     "chanceofrain": "0",
-                    "chanceofremdry": "90",
+                    "chanceofremdry": "80",
                     "chanceofsnow": "0",
-                    "chanceofsunshine": "18",
+                    "chanceofsunshine": "75",
                     "chanceofthunder": "0",
                     "chanceofwindy": "0",
-                    "cloudcover": "100",
+                    "cloudcover": "30",
                     "diffRad": "0.0",
-                    "humidity": "76",
+                    "humidity": "66",
                     "lang_ru": [
                         {
-                            "value": "Пасмурно"
+                            "value": "Переменная облачность"
                         }
                     ],
                     "precipInches": "0.0",
                     "precipMM": "0.0",
-                    "pressure": "1020",
+                    "pressure": "1024",
                     "pressureInches": "30",
                     "shortRad": "0.0",
-                    "tempC": "-9",
-                    "tempF": "16",
+                    "tempC": "0",
+                    "tempF": "32",
                     "time": "2100",
                     "uvIndex": "0",
                     "visibility": "10",
                     "visibilityMiles": "6",
-                    "weatherCode": "122",
+                    "weatherCode": "116",
                     "weatherDesc": [
                         {
-                            "value": "Overcast "
+                            "value": "Partly Cloudy "
                         }
                     ],
                     "weatherIconUrl": [
@@ -1474,17 +1474,17 @@
                             "value": ""
                         }
                     ],
-                    "winddir16Point": "SSW",
-                    "winddirDegree": "214",
-                    "windspeedKmph": "8",
-                    "windspeedMiles": "5"
+                    "winddir16Point": "E",
+                    "winddirDegree": "90",
+                    "windspeedKmph": "13",
+                    "windspeedMiles": "8"
                 }
             ],
-            "maxtempC": "-8",
-            "maxtempF": "18",
-            "mintempC": "-11",
-            "mintempF": "13",
-            "sunHour": "8.0",
+            "maxtempC": "4",
+            "maxtempF": "39",
+            "mintempC": "-2",
+            "mintempF": "28",
+            "sunHour": "8.3",
             "totalSnow_cm": "0.0",
             "uvIndex": "0"
         }
